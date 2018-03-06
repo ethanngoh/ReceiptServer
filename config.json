@@ -1,5 +1,5 @@
 {
-	"html_path": "html/index.html",
+	"html_path": "index.html",
 	"image_store_folder_path": "./receipt_images/",
 	"sales_tax_store_folder_path": "./data/",
 	"sales_tax_filename": "sales_tax.csv"
